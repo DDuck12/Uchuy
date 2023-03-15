@@ -25,29 +25,29 @@ export const programs = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Program One",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Perrones",
+        info: "los mejores tolodos, perrones, confiables y duraderos!",
         path: "/programs/111"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Program Two",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Buenos",
+        info: "los mejores tolodos, perrones, confiables y duraderos!",
         path: "/programs/222"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Program Three",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Baratos",
+        info: "los mejores tolodos, perrones, confiables y duraderos!",
         path: "/programs/333"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Program Four",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Confiables",
+        info: "los mejores tolodos, perrones, confiables y duraderos!",
         path: "/programs/444"
     }
 ]
@@ -82,32 +82,32 @@ export const values = [
 export const faqs = [
     {
         id: 1,
-        question: "How often should I exercise?",
+        question: "Cuanto sale un toldo?",
         answer: "Consectetur adipisicing elit. Non ipsa dolorem, rem consequatur eum omnis ex, fuga temporibus qui nesciunt odio aliquam commodi culpa inventore ut similique repellendus perferendis sint!"
     },
     {
         id: 2,
-        question: "What time of day is best to work out?",
+        question: "Cuanto tarda en instalar mi toldo?",
         answer: "Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui. Eos, omnis beatae? Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit."
     },
     {
         id: 3,
-        question: "How long should my workouts be?",
+        question: "Cuantos toldos necesito?",
         answer: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
     },
     {
         id: 4,
-        question: "Do I need to warm up before my workouts?",
+        question: "Que materiales tendra mi toldo?",
         answer: "Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate? Qui totam est omnis dolor nobis quisquam veritatis a!"
     },
     {
         id: 5,
-        question: "Should I do strength training, cardio or both?",
+        question: "Tiene garantia mi toldo?",
         answer: "Maiores fuga, cum praesentium esse laudantium! Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui."
     },
     {
         id: 6,
-        question: "Should I lift weights for strength training?",
+        question: "Mi toldo sera duradero?",
         answer: "Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate."
     }
 ]
@@ -115,38 +115,38 @@ export const faqs = [
 export const testimonials = [
     {
         id: 1,
-        name: "Diana Ayi",
+        name: "Pato Uno",
         quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Student",
-        avatar: require("./images/placeholder.jpg")
+        job: "Pato",
+        avatar: require("./images/AvatarPlaceholder.jpg")
     },
     {
         id: 2,
-        name: "Daniel Vinyo",
+        name: "Pato Dos",
         quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Software Egineer",
+        job: "Duck",
         avatar: require("./images/placeholder.jpg")
     },
     {
         id: 3,
-        name: "Edem Quist",
+        name: "Pato Tres",
         quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "University Lecturer",
-        avatar: require("./images/placeholder.jpg")
+        job: "Quack",
+        avatar: require("./images/AvatarPlaceholder.jpg")
     },
     {
         id: 4,
-        name: "Grace Lavoe",
+        name: "Pato Cuatro",
         quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Talking Parrot",
+        job: "PatoQuack",
         avatar: require("./images/placeholder.jpg")
     },
     {
         id: 5,
-        name: "Nana Yaa Dankwa",
+        name: "Pato CincoPeso",
         quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Pharmacist",
-        avatar: require("./images/placeholder.jpg")
+        job: "DDuck",
+        avatar: require("./images/AvatarPlaceholder.jpg")
     }
 ]
 
