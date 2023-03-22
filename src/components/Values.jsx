@@ -9,7 +9,7 @@ const Values = () => {
     <section className='values'>
       <div className="container values__container">
         <div className="values__left">
-          <div className="values__iamge">
+          <div className="values__image">
             <img src={Image} alt="Values Img" />
           </div>
         </div>
