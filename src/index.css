@@ -236,7 +236,7 @@ section {
     }
 
     .header {
-        height: fit-content;
+        max-height: 15rem;
     }
 
     .header__content {
