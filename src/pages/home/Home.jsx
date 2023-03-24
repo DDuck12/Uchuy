@@ -14,7 +14,6 @@ function Home() {
     <Values/>
     <FAQs/>
     <Testimonials/>
-    <Footer/>
     </>
   )
 }
