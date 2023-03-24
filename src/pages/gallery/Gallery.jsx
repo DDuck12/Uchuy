@@ -12,13 +12,22 @@ function Gallery() {
     images.push(require(`../../images/gallery${i}.jpg`))
   }
 
-  console.log(images)
-
   return (
     <>
       <Header title="Galeria" image={HeaderImage}>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab mollitia quae obcaecati expedita commodi pariatur saepe qui alias ratione corporis!
       </Header>
+      <section className="gallery">
+        <div className="container gallery__container">
+          {
+            images.map((image, index) => {
+              return <article key={index}>
+                <img src={image} alt={`Gallery img ${index = 1}`} />
+              </article>
+            })
+          }
+        </div>
+      </section>
     </>
   )
 }
