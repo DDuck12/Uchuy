@@ -4,6 +4,16 @@ import HeaderImage from '../../images/background.jpg'
 import './gallery.css'
 
 function Gallery() {
+
+  const galleryLenght = 9;
+  const images = []
+
+  for (let i = 1; i <= galleryLenght; i++) {
+    images.push(require(`../../images/gallery${i}.jpg`))
+  }
+
+  console.log(images)
+
   return (
     <>
       <Header title="Galeria" image={HeaderImage}>
