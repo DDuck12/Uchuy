@@ -9,14 +9,14 @@ function Contact() {
   return (
     <>
     <Header title="Ponte en contacto con nostros" image={HeaderImage}>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi rem dolore quos sunt nihil repellendus reiciendis vitae placeat laborum labore!
+      Kroon Steel Design
     </Header>
     <section className="contact">
       <div className="container contact__container">
         <div className="contact__wrapper">
-          <a href="mailto:mail@mail.com" target="_blank" rel="noreferrer noopener"><MdEmail/></a>
-          <a href="http://m.me/jesus.a.medina.9" target="_blank" rel="noreferrer noopener"><BsMessenger/></a>
-          <a href="https://wa.me/+52333333333" target="_blank" rel="noreferrer noopener"><IoLogoWhatsapp/></a>
+          <a href="mailto:Kroon.steel.design@gmail.com" target="_blank" rel="noreferrer noopener"><MdEmail/></a>
+          <a href="http://m.me/profile.php?id=100087619848903" target="_blank" rel="noreferrer noopener"><BsMessenger/></a>
+          <a href="https://wa.me/527221285022" target="_blank" rel="noreferrer noopener"><IoLogoWhatsapp/></a>
         </div>
       </div>
     </section>

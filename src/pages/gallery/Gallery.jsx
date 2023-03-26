@@ -15,7 +15,7 @@ function Gallery() {
   return (
     <>
       <Header title="Galeria" image={HeaderImage}>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab mollitia quae obcaecati expedita commodi pariatur saepe qui alias ratione corporis!
+        Kroon Steel Design
       </Header>
       <section className="gallery">
         <div className="container gallery__container">

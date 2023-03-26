@@ -6,9 +6,9 @@ const MainHeader = () => {
     <header className="main__header">
       <div className="container main__header-container">
         <div className="main__header-left">
-          <h4>Negocio del Larry</h4>
-          <h1>Toldos perrones buenos y baratos</h1>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In iusto fugiat sunt enim fuga? Deserunt.</p>
+          <h4>Kroon Steel Design</h4>
+          <h1>Techos, Pergolas y Estructuras</h1>
+          <p>Diseños e instalaciones de la mejor calidad con los mejores materiales</p>
           <Link to='/contact' className='btn lg'>Contactanos</Link>
         </div>
         <div className="main__header-right">

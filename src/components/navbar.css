@@ -28,6 +28,10 @@ nav {
     display: block;
 }
 
+.logo img {
+    height: 5rem;
+}
+
 .nav__links {
     display: flex;
     gap: 3.5rem;

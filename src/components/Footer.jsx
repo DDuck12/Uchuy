@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import Logo from '../images/logo-placeholder.png'
+import Logo from '../images/logo-placeholder.jpg'
 import { FaLinkedin } from 'react-icons/fa'
 import { FaFacebookF } from 'react-icons/fa'
 import { AiOutlineTwitter } from 'react-icons/ai'
@@ -25,19 +25,19 @@ const Footer = () => {
             </article>
             <article>
                 <h4>Permalinks</h4>
-                <Link to="/about">About</Link>
-                <Link to="/gallery">Gallery</Link>
-                <Link to="/contact">Contact</Link>
+                <Link to="/about">Acerca de</Link>
+                <Link to="/gallery">Galeria</Link>
+                <Link to="/contact">Contacto</Link>
             </article>
             <article>
                 <h4>Acerca De</h4>
-                <Link to="/about">About</Link>
+                <Link to="/about">Acerca de</Link>
                 <Link to="/">FAQs</Link>
             </article>
             <article>
                 <h4>Ponte en contacto</h4>
                 <Link to="/contact">Contactanos</Link>
-                <Link to="/Gallery">Gallery</Link>
+                <Link to="/Gallery">Galeria</Link>
             </article>
         </div>
         <div className="footer__copyright">

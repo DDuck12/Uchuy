@@ -8,15 +8,15 @@ export const links = [
         path: '/'
     },
     {
-        name: "About",
+        name: "Acerca",
         path: '/about'
     },
     {
-        name: "Gallery",
+        name: "Galeria",
         path: '/gallery'
     },
     {
-        name: "Contact",
+        name: "Contacto",
         path: '/contact'
     }
 ]

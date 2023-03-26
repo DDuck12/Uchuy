@@ -1,6 +1,5 @@
 import Header from '../../components/Header'
 import HeaderImage from '../../images/background.jpg'
-import StoryImage from '../../images/placeholder.jpg'
 import VisionImage from '../../images/placeholder.jpg'
 import MissionImage from '../../images/placeholder.jpg'
 import './about.css'
@@ -9,38 +8,17 @@ const About = () => {
   return (
     <>
     <Header title="Acerca de" image={HeaderImage}>
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, corrupti ipsum! Earum adipisci autem ipsum dignissimos tempora illum animi vitae!
+      Kroon Steel Design
     </Header>
-
-    <section className="about__story">
-      <div className="container about__story-container">
-        <div className="about__section-image">
-          <img src={StoryImage} alt="Story img" />
-        </div>
-        <div className="about__section-content">
-          <h1>Nuestra Historia</h1>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo dignissimos quidem sed quas architecto. Suscipit obcaecati quod laborum quasi! Repellat earum expedita voluptas sapiente, tenetur exercitationem! Sed vitae eveniet voluptatem.
-          </p>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo dignissimos quidem sed quas architecto. Suscipit obcaecati quod laborum quasi! Repellat earum expedita voluptas sapiente, tenetur exercitationem! Sed vitae eveniet voluptatem.
-          </p>
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem expedita sunt facilis odio rem fuga amet iusto iste corrupti pariatur?
-          </p>
-        </div>
-      </div>
-    </section>
-
     <section className="about__vision">
       <div className="container about__vision-container">
         <div className="about__section-content">
-          <h1>Nuestra Vision</h1>
+          <h1>Nuestra Mision</h1>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo dignissimos quidem sed quas architecto. Suscipit obcaecati quod laborum quasi! Repellat earum expedita voluptas sapiente, tenetur exercitationem! Sed vitae eveniet voluptatem.
+          Somos una empresa dedicada a brindar soluciones innovadoras en techos y pergolas, comprometida en ofrecer a nuestros clientes un servicio de calidad, con materiales de primera y un equipo de profesionales altamente capacitados.
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo dignissimos quidem sed quas architecto. Suscipit obcaecati quod laborum quasi! Repellat earum expedita voluptas sapiente, tenetur exercitationem! Sed vitae eveniet voluptatem.
+          Nuestra misión es satisfacer las necesidades de nuestros clientes, generando confianza y seguridad en cada proyecto realizado.
           </p>
         </div>
         <div className="about__section-image">
@@ -55,15 +33,15 @@ const About = () => {
           <img src={MissionImage} alt="Mission img" />
         </div>
         <div className="about__section-content">
-          <h1>Nuestra Mision</h1>
+          <h1>Nuestra Vision</h1>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo dignissimos quidem sed quas architecto. Suscipit obcaecati quod laborum quasi! Repellat earum expedita voluptas sapiente, tenetur exercitationem! Sed vitae eveniet voluptatem.
+          Ser una empresa líder en el mercado de techos y pergolas, reconocida por su calidad, innovación y excelencia en el servicio al cliente.
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo dignissimos quidem sed quas architecto. Suscipit obcaecati quod laborum quasi! Repellat earum expedita voluptas sapiente, tenetur exercitationem! Sed vitae eveniet voluptatem.
+          Deseamos ser una empresa que se adapte constantemente a las necesidades y tendencias del mercado, ofreciendo soluciones integrales y personalizadas que permitan mejorar la calidad de vida y la estética de los hogares de nuestros clientes.
           </p>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem expedita sunt facilis odio rem fuga amet iusto iste corrupti pariatur?
+          Ser una empresa comprometida con el desarrollo sustentable, haciendo uso de materiales amigables con el medio ambiente en todas nuestras soluciones
           </p>
         </div>
       </div>
