@@ -40,9 +40,6 @@ const About = () => {
           <p>
           Deseamos ser una empresa que se adapte constantemente a las necesidades y tendencias del mercado, ofreciendo soluciones integrales y personalizadas que permitan mejorar la calidad de vida y la estética de los hogares de nuestros clientes.
           </p>
-          <p>
-          Ser una empresa comprometida con el desarrollo sustentable, haciendo uso de materiales amigables con el medio ambiente en todas nuestras soluciones
-          </p>
         </div>
       </div>
     </section>
