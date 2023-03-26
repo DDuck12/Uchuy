@@ -14,7 +14,7 @@ const Footer = () => {
                     <img src={Logo} alt="Footer Log" />
                 </Link>
                 <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores, repudiandae magni odit iste deserunt eum dolorum quisquam autem ea dolores ipsum totam.
+                Materiales de alta calidad y estructuras de alta duración garantizadas.
                 </p>
                 <div className='footer__socials'>
                     <a href="https://linkedin.com" target="_blank" rel='noreferrer noopener'><FaLinkedin/></a>
@@ -41,7 +41,7 @@ const Footer = () => {
             </article>
         </div>
         <div className="footer__copyright">
-            <small>2023 Empresas Uchuy &copy; Todos los derechos reservados</small>
+            <small>2023 Kroon Steel Design &copy; Todos los derechos reservados</small>
         </div>
     </footer>
   )
