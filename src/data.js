@@ -25,30 +25,30 @@ export const programs = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Perrones",
-        info: "los mejores tolodos, perrones, confiables y duraderos!",
-        path: "/programs/111"
+        title: "Pergolas y Techos",
+        info: "Fabricamos e instalamos estructuras metalicas a la medida.",
+        path: "/contact"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Buenos",
-        info: "los mejores tolodos, perrones, confiables y duraderos!",
-        path: "/programs/222"
+        title: "Celosías",
+        info: "Celosías metalicas con diseños y corte de plasma.",
+        path: "/contact"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Baratos",
-        info: "los mejores tolodos, perrones, confiables y duraderos!",
-        path: "/programs/333"
+        title: "Mantenimiento y Servicios",
+        info: "Plomeria, electricidad, pintura interior y exterior, impermoabilización.",
+        path: "/contact"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Confiables",
-        info: "los mejores tolodos, perrones, confiables y duraderos!",
-        path: "/programs/444"
+        title: "Diseño",
+        info: "Hacemos el diseño de tu estructura a la medida",
+        path: "/contact"
     }
 ]
 
@@ -82,33 +82,28 @@ export const values = [
 export const faqs = [
     {
         id: 1,
-        question: "Cuanto sale un toldo?",
-        answer: "Consectetur adipisicing elit. Non ipsa dolorem, rem consequatur eum omnis ex, fuga temporibus qui nesciunt odio aliquam commodi culpa inventore ut similique repellendus perferendis sint!"
+        question: "Que necesito para solicitar mi cotizacion?",
+        answer: "Para realizar la propuesta se necesita el diseño de la estructura, la altura, largo y ancho aproximados. En caso de aceptar la propuesta se agenda la visita para la toma de medidas, niveles y bases."
     },
     {
         id: 2,
-        question: "Cuanto tarda en instalar mi toldo?",
-        answer: "Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui. Eos, omnis beatae? Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit."
+        question: "Cuanto tarda la instalacion?",
+        answer: "Menor a 50m2 entre 1 y 4 días."
     },
     {
         id: 3,
-        question: "Cuantos toldos necesito?",
-        answer: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+        question: "Que materiales usamos?",
+        answer: "Nuestros materiales son: Acero PTR e IPR (calibre a elección, recomendado 14), Celosías de acero calibre 14, Madera de pino, Policarbonato protección 2V 6mm (Colores a elección), Cristal templado 6mm filtrasol, Cristal claro 6mm."
     },
     {
         id: 4,
-        question: "Que materiales tendra mi toldo?",
-        answer: "Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate? Qui totam est omnis dolor nobis quisquam veritatis a!"
+        question: "Mi estructura tiene garantia?",
+        answer: "Cuenta con Garantía de 25 años."
     },
     {
         id: 5,
-        question: "Tiene garantia mi toldo?",
-        answer: "Maiores fuga, cum praesentium esse laudantium! Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui."
-    },
-    {
-        id: 6,
-        question: "Mi toldo sera duradero?",
-        answer: "Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate."
+        question: "Mi estructura sera duradera?",
+        answer: "Recomendamos darle mantenimiento cada 5-10 años para que la estructura dure de por vida."
     }
 ]
 
