@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/background.jpg'
+import HeaderImage from '../../images/logow.png'
 import {MdEmail} from 'react-icons/md'
 import {BsMessenger} from 'react-icons/bs'
 import {IoLogoWhatsapp} from 'react-icons/io'
@@ -8,8 +8,8 @@ import './contact.css'
 function Contact() {
   return (
     <>
-    <Header title="Ponte en contacto con nostros" image={HeaderImage}>
-      Kroon Steel Design
+    <Header title="Contactanos" image={HeaderImage}>
+      
     </Header>
     <section className="contact">
       <div className="container contact__container">

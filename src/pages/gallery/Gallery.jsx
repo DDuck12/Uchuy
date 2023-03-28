@@ -1,6 +1,6 @@
 import './gallery.css'
 import Header from '../../components/Header'
-import HeaderImage from '../../images/background.jpg'
+import HeaderImage from '../../images/logob.png'
 import './gallery.css'
 
 function Gallery() {
@@ -15,7 +15,7 @@ function Gallery() {
   return (
     <>
       <Header title="Galeria" image={HeaderImage}>
-        Kroon Steel Design
+        
       </Header>
       <section className="gallery">
         <div className="container gallery__container">

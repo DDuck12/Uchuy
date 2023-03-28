@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/background.jpg'
+import HeaderImage from '../../images/logow.png'
 import VisionImage from '../../images/placeholder.jpg'
 import MissionImage from '../../images/placeholder.jpg'
 import './about.css'
@@ -8,7 +8,7 @@ const About = () => {
   return (
     <>
     <Header title="Acerca de" image={HeaderImage}>
-      Kroon Steel Design
+      
     </Header>
     <section className="about__vision">
       <div className="container about__vision-container">
