@@ -37,13 +37,20 @@ body {
     color: var(--color-gray-200);
     line-height: 1.7;
     overflow-x: hidden;
-    background: var(--color-gray-600);
+    background: black;
 }
 
 .container {
     width: var(--container-width-lg);
     max-width: 1920px;
     margin-inline: auto;
+}
+
+.gallery__title {
+    width: var(--container-width-lg);
+    max-width: 1920px;
+    margin-inline: auto;
+    margin-bottom: 1rem;
 }
 
 h1, h2, h3, h4, h5 {
@@ -182,7 +189,7 @@ section {
 }
 
 .header__container-bg img {
-    opacity: 0.5;
+    opacity: 1.0;
 }
 
 .header__content {

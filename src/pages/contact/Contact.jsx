@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/logow.png'
+import HeaderImage from '../../images/logob.png'
 import {MdEmail} from 'react-icons/md'
 import {BsMessenger} from 'react-icons/bs'
 import {IoLogoWhatsapp} from 'react-icons/io'
@@ -8,7 +8,7 @@ import './contact.css'
 function Contact() {
   return (
     <>
-    <Header title="Contactanos" image={HeaderImage}>
+    <Header title="" image={HeaderImage}>
       
     </Header>
     <section className="contact">

@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/logow.png'
+import HeaderImage from '../../images/logob.png'
 import VisionImage from '../../images/placeholder.jpg'
 import MissionImage from '../../images/placeholder.jpg'
 import './about.css'
@@ -7,7 +7,7 @@ import './about.css'
 const About = () => {
   return (
     <>
-    <Header title="Acerca de" image={HeaderImage}>
+    <Header title="" image={HeaderImage}>
       
     </Header>
     <section className="about__vision">
