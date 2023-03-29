@@ -1,7 +1,7 @@
 import Header from '../../components/Header'
 import HeaderImage from '../../images/logob.png'
-import VisionImage from '../../images/placeholder.jpg'
-import MissionImage from '../../images/placeholder.jpg'
+import VisionImage from '../../images/derecha.png'
+import MissionImage from '../../images/izquierda.png'
 import './about.css'
 
 const About = () => {
