@@ -19,6 +19,10 @@
     margin-top: -3rem;
 }
 
+.main__header-left h1 {
+    color: black;
+}
+
 .main__header-left h4 {
     margin-bottom: 1rem;
     color: var(--color-secondary);
