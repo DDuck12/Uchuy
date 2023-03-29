@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import {Link, NavLink} from 'react-router-dom'
-import Logo from '../images/logob.png'
+import Logo from '../images/logow.png'
 import {links} from '../data'
 import {GoThreeBars} from 'react-icons/go'
 import {MdOutlineClose} from 'react-icons/md'

@@ -9,7 +9,7 @@ const MainHeader = () => {
           <h4>Kroon Steel Design</h4>
           <h1>Techos, Pergolas y Estructuras</h1>
           <p>Diseños e instalaciones de la mejor calidad con los mejores materiales</p>
-          <Link to='/contact' className='btn lg'>Contactanos</Link>
+          <Link to='/gallery' className='btn lg'>Galeria</Link>
         </div>
         <div className="main__header-right">
           <div className="main__header-circle"></div>

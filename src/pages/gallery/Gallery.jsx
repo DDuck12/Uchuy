@@ -4,17 +4,11 @@ import SectionHead from '../../components/SectionHead'
 import {FaCrown} from 'react-icons/fa'
 import HeaderImage from '../../images/logob.png'
 import MaderaImage from '../../images/maderas.jpg'
+import MetalesImage from '../../images/metales.jpg'
 import './gallery.css'
 
 function Gallery() {
-
-  const galleryLenght = 9;
-  const images = []
-
-  for (let i = 1; i <= galleryLenght; i++) {
-    images.push(require(`../../images/gallery${i}.jpg`))
-  }
-
+  
   const celosiasLenght = 6;
   const celosias = []
 
@@ -29,6 +23,12 @@ function Gallery() {
     techos.push(require(`../../images/techo${i}.jpg`))
   }
 
+  const policarbonatosMetales = 3;
+  const policarbonatos = []
+
+  for (let i = 1; i <= policarbonatosMetales; i++) {
+    policarbonatos.push(require(`../../images/policarbonato${i}.jpg`))
+  }
 
   return (
     <>
@@ -84,13 +84,9 @@ function Gallery() {
       <SectionHead icon={<FaCrown/>} title="Colores de Metal"/>
       </div>
         <div className="container gallery__container">
-          {
-            images.map((image, index) => {
-              return <article key={index}>
-                <img src={image} alt={`Gallery img ${index = 1}`} />
-              </article>
-            })
-          }
+        <article>
+                <img src={MetalesImage} alt="Maderas" />
+        </article>
         </div>
       </section>
 
@@ -99,8 +95,8 @@ function Gallery() {
       <SectionHead icon={<FaCrown/>} title="Policarbonatos y Cristales"/>
       </div>
         <div className="container gallery__container">
-          {
-            images.map((image, index) => {
+        {
+            policarbonatos.map((image, index) => {
               return <article key={index}>
                 <img src={image} alt={`Gallery img ${index = 1}`} />
               </article>
