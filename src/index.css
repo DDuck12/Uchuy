@@ -34,10 +34,10 @@
 /* GENERAL STYLES */
 body {
     font-family: 'Montserrat', sans-serif;
-    color: var(--color-gray-200);
+    color: black;
     line-height: 1.7;
     overflow-x: hidden;
-    background: black;
+    background: white;
 }
 
 .container {
@@ -55,7 +55,7 @@ body {
 
 h1, h2, h3, h4, h5 {
     line-height: 1.2;
-    color: var(--color-gray-100);
+    color: white;
 }
 
 h1 {
@@ -81,7 +81,7 @@ img {
     width: fit-content;
     margin: 0 auto;
     padding: 0.9rem 2rem;
-    background: var(--color-primary);
+    background: #032B4F;
     border-radius: 1.5rem;
     transition: var(--transition);
 }
@@ -125,7 +125,7 @@ section {
 }
 
 .card {
-    background: var(--color-gray-500);
+    background: black;
     border: 2px solid transparent;
     text-align: center;
     padding: 3rem 2rem;
