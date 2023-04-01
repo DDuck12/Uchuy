@@ -110,39 +110,24 @@ export const faqs = [
 export const testimonials = [
     {
         id: 1,
-        name: "Pato Uno",
-        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Pato",
-        avatar: require("./images/AvatarPlaceholder.jpg")
+        name: "Diego",
+        quote: "Me encanta cómo quedó mi patio después de que esta empresa instaló una pérgola de madera. Ahora puedo disfrutar de mi jardín en cualquier momento del día, incluso en los días más calurosos. Además, el equipo fue muy profesional y amable durante todo el proceso de instalación."
     },
     {
         id: 2,
-        name: "Pato Dos",
-        quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Duck",
-        avatar: require("./images/placeholder.jpg")
+        name: "Alma",
+        quote: "Estoy muy satisfecho con el trabajo realizado por este negocio. El equipo fue muy profesional y eficiente, y el resultado final es impresionante. Ahora tengo un hermoso espacio al aire libre que puedo disfrutar con mi familia y amigos."
     },
     {
         id: 3,
-        name: "Pato Tres",
-        quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Quack",
-        avatar: require("./images/AvatarPlaceholder.jpg")
+        name: "Elias",
+        quote: "Estaba buscando una manera de crear un espacio al aire libre en mi negocio, y esta empresa me recomendó una pérgola de aluminio. La instalación fue fácil y rápida, y ahora mis clientes pueden disfrutar de una agradable área al aire libre mientras están en mi negocio. Estoy muy contento con los resultados."
     },
     {
         id: 4,
-        name: "Pato Cuatro",
-        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "PatoQuack",
-        avatar: require("./images/placeholder.jpg")
+        name: "Kevin",
+        quote: "Mi esposa y yo estábamos buscando una manera de agregar sombra a nuestro patio trasero y encontramos esta empresa. Ellos diseñaron y construyeron una pérgola personalizada que se ajustaba perfectamente a nuestras necesidades y presupuesto. Estamos muy contentos con el resultado final.",
     },
-    {
-        id: 5,
-        name: "Pato CincoPeso",
-        quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "DDuck",
-        avatar: require("./images/AvatarPlaceholder.jpg")
-    }
 ]
 
 const Trainer1 = require('./images/placeholder.jpg')

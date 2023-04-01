@@ -125,7 +125,7 @@ section {
 }
 
 .card {
-    background: black;
+    background: rgba(0, 0, 0, 0.8);
     border: 2px solid transparent;
     text-align: center;
     padding: 3rem 2rem;
